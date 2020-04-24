@@ -1,2 +1,2 @@
-# simple-java-maven-app
+# simple-jenkins
 jenkinstutorials
